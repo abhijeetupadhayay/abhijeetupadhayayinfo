@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get in Touch | Abhijeet Upadhayay</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <h1>Abhijeet Upadhayay</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Get in Touch</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Get in Touch Section -->
+    <section class="contact-section">
+        <h2>Get in Touch</h2>
+        <p>Feel free to connect with me on the following social media platforms:</p>
+        
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/abhijeet-upadhayay-384734171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a>
+            <a href="https://www.snapchat.com/add/highwthoutdrug?share_id=KXKbF_O503Q&locale=en-IN" target="_blank">Snapchat</a>
+            <a href="https://www.instagram.com/highwithoutdrug/profilecard/?igsh=MTdmYjRycmxlZmFtaA==" target="_blank">Instagram</a>
+            <a href="https://x.com/abhijeet11_2?t=K29PUq6vcrZfdUYRfHXHrw&s=09" target="_blank">Twitter</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Abhijeet Upadhayay | All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
